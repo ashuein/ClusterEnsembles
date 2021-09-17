@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sano"
+  given-names: "Takehiro"
+title: "ClusterEnsembles"
+version: 1.0.0
+date-released: 2021-08-05
+license: MIT
+type: software
+repository-code: "https://github.com/tsano430/ClusterEnsembles"
